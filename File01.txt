@@ -4,3 +4,4 @@ Line 2.1
 Line 3
 Line 4
 Add a line to origin file
+stashed line
