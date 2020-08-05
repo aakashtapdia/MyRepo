@@ -1,2 +1,2 @@
-# MyRepo
+# MyRepo from GitHub
 First repo
